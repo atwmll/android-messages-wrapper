@@ -1,5 +1,5 @@
 # Android-Messages-Wrapper
-This is a wrapper for Android Messages on the web written in C++. This opens a Google Chrome window in the app or headless mode going to https://messages.android.com which will then prompt the user from there to link up their phone. 
+This is a wrapper for Android Messages on the web written in C++. This opens a Google Chrome window in the app or headless mode going to https://messages.android.com which will then prompt the user from there to link up their phone. This is a super simplified way to launch Android Messages. This is nothing more than an app that opens a web browser. Please acknowledge, that I acknowledge, that this app just opens a web browser for Android Messages and I am not affiliated with Google.
 
 This is just a C++ wrapper and works in a Unix environment. It was created and tested on Arch linux.
 <br /><hr />
